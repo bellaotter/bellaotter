@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bellaotter - Isabella Otterson
-- 💞️ I am an sophomore computer science major at UC Berkeley.
+- 💞️ I am an sophomore at UC Berkeley.
 - 👀 I’m interested in product management, mobile development, software engineering, and UI/UX Design.
 - 🌱 I’m currently learning React Native Mobile development.
 - 📫 How to reach me: isabellaotterson@berkeley.edu
