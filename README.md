@@ -5,13 +5,13 @@
 I’m @bellaotter - Isabella Otterson
 - 💞️ I am an junior at UC Berkeley.
 - 👀 I’m interested in product management, mobile development, & software engineering
-- 🌱 I’m currently learning React Native Mobile development.
+- 🌱 I’m currently learning Machine Structures & Databases.
 - 📫 How to reach me: isabellaotterson@berkeley.edu
 
 ---
 Projects I've Completed 
 
-Courtroom [PRIVATE] <br>
+<u> Courtroom <\u> [PRIVATE]  <br>
 Built a React Native legal services marketplace app with a Firebase backend with two other team members aimed at connecting low-income individuals with pro-bono lawyers and public defenders based on personal legal needs. Built as a group personal project with the Mobile Developers of Berkeley.
 
 Intelligent Pac-Man Built [PRIVATE] <br>
