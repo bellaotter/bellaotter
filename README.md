@@ -1,5 +1,9 @@
+<h1>
+  hey there
+</h1>
+
 - 👋 Hi, I’m @bellaotter - Isabella Otterson
-- 💞️ I am an sophomore at UC Berkeley.
+- 💞️ I am an junior at UC Berkeley.
 - 👀 I’m interested in product management, mobile development, & software engineering
 - 🌱 I’m currently learning React Native Mobile development.
 - 📫 How to reach me: isabellaotterson@berkeley.edu
