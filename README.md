@@ -16,6 +16,10 @@ Built a React Native legal services marketplace app with a Firebase backend with
 
 <u>Intelligent Pac-Man Built <br>
 (BFS, DFS, cost function, and A*) search algorithms, (Minimax, Alpha-Beta pruning, & Expectimax) decision-making algorithms, localization, mapping, SLAM using a SAT solver, inference, Q-learning, and other algorithms for Pac-Man in the CS188 Introduction to Artificial Intelligence course.
+  
+Hashtag Sentiment Analysis <br>
+Worked with one other team member analyzing content using AWS Comprehend
+collected with the Twitter API. Voted to receive a $300 award at MDB’s 2022 Tech Fair sponsored by Google & Retool.
 
 CS61B, The Game <br>
 Built an engine that develops a pseudorandom explorable 2D tile-based map for the CS61B course.
