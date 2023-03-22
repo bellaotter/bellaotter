@@ -11,10 +11,10 @@ I’m @bellaotter - Isabella Otterson
 ---
 Projects I've Completed 
 
-<u> Courtroom <\u> [PRIVATE]  <br>
+<u>Courtroom </u> [PRIVATE]  <br>
 Built a React Native legal services marketplace app with a Firebase backend with two other team members aimed at connecting low-income individuals with pro-bono lawyers and public defenders based on personal legal needs. Built as a group personal project with the Mobile Developers of Berkeley.
 
-Intelligent Pac-Man Built [PRIVATE] <br>
+<u>Intelligent Pac-Man Built [PRIVATE] <br>
 (BFS, DFS, cost function, and A*) search algorithms, (Minimax, Alpha-Beta pruning, & Expectimax) decision-making algorithms, localization, mapping, SLAM using a SAT solver, inference, Q-learning, and other algorithms for Pac-Man in the CS188 Introduction to Artificial Intelligence course.
 
 CS61B, The Game [PRIVATE] <br>
