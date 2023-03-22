@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning React Native Mobile development.
 - 📫 How to reach me: isabellaotterson@berkeley.edu
 
-
--- Projects I've Completed --
+---
+Projects I've Completed 
 
 Courtroom [PRIVATE] - 
 Built a React Native legal services marketplace app with a Firebase backend with two other team members aimed at connecting low-income individuals with pro-bono lawyers and public defenders based on personal legal needs. Built as a group personal project with the Mobile Developers of Berkeley.
