@@ -6,7 +6,7 @@ hey there 👋 I’m @bellaotter - Isabella Otterson
 - 📫 How to reach me: isabellaotterson@berkeley.edu
 
 ---
-<h3> Projects I've Completed </h3>
+Projects I've Completed:
 
 <u>Courtroom </u> <br>
 Built a React Native legal services marketplace app with a Firebase backend with two other team members aimed at connecting low-income individuals with pro-bono lawyers and public defenders based on personal legal needs. Built as a group personal project with the Mobile Developers of Berkeley.
