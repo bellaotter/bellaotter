@@ -8,6 +8,9 @@ hey there 👋 I’m @bellaotter - Isabella Otterson
 ---
 Projects I've Completed:
 
+Hawksbill <br>
+Developed an iOS app in partnership with the Hawaii Association for Marine Education & Research that crowdsources for research data on endangered marine animals for entry into photo-ID catalogs supporting population and behavioral research with a Heroku website for data collection and visualization. Available on App Store.
+
 <u>Courtroom </u> <br>
 Built a React Native legal services marketplace app with a Firebase backend with two other team members aimed at connecting low-income individuals with pro-bono lawyers and public defenders based on personal legal needs. Built as a group personal project with the Mobile Developers of Berkeley.
 
