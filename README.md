@@ -14,8 +14,11 @@ Developed an iOS app in partnership with the Hawaii Association for Marine Educa
 <u>Courtroom </u> <br>
 Built a React Native legal services marketplace app with a Firebase backend with two other team members aimed at connecting low-income individuals with pro-bono lawyers and public defenders based on personal legal needs. Built as a group personal project with the Mobile Developers of Berkeley.
 
-<u>Intelligent Pac-Man Built <br>
-(BFS, DFS, cost function, and A*) search algorithms, (Minimax, Alpha-Beta pruning, & Expectimax) decision-making algorithms, localization, mapping, SLAM using a SAT solver, inference, Q-learning, and other algorithms for Pac-Man in the CS188 Introduction to Artificial Intelligence course.
+<u>Intelligent Pac-Man <br>
+Built (BFS, DFS, cost function, and A*) search algorithms, (Minimax, Alpha-Beta pruning, & Expectimax) decision-making algorithms, localization, mapping, SLAM using a SAT solver, inference, Q-learning, and other algorithms for Pac-Man in the CS188 Introduction to Artificial Intelligence course.
+
+CS61Cpu <br>
+Built a fully functional CPU with a RISC-V data path in the Logism circuit simulator capable of running machine code converted from RISC-V assembly code. Implemented different stages from the data path and pipelining to increase throughout.
   
 Hashtag Sentiment Analysis <br>
 Worked with one other team member analyzing content using AWS Comprehend
