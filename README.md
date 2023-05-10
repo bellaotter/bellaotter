@@ -18,7 +18,7 @@ Built a React Native legal services marketplace app with a Firebase backend with
 Built (BFS, DFS, cost function, and A*) search algorithms, (Minimax, Alpha-Beta pruning, & Expectimax) decision-making algorithms, localization, mapping, SLAM using a SAT solver, inference, Q-learning, and other algorithms for Pac-Man in the CS188 Introduction to Artificial Intelligence course.
 
 CS61Cpu <br>
-Built a fully functional CPU with a RISC-V data path in the Logism circuit simulator capable of running machine code converted from RISC-V assembly code. Implemented different stages from the data path and pipelining to increase throughout.
+Built a fully functional CPU with a RISC-V data path in the Logism circuit simulator capable of running machine code converted from RISC-V assembly code for the CS61C: Computer Architecture course. Implemented different stages from the data path and pipelining to increase throughout.
   
 Hashtag Sentiment Analysis <br>
 Worked with one other team member analyzing content using AWS Comprehend
