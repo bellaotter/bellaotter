@@ -8,7 +8,7 @@ hey there 👋 I’m @bellaotter - Isabella Otterson
 ---
 Technical Projects I've Completed:
 
-Hawksbill <br>
+[Hawksbill](https://apps.apple.com/us/app/hi-hawksbill-conservation/id1506077566?platform=iphone) <br> 
 Developed an iOS app in partnership with the Hawaii Association for Marine Education & Research that crowdsources for research data on endangered marine animals for entry into photo-ID catalogs supporting population and behavioral research with a Heroku website for data collection and visualization. Available on App Store.
 
 <u>Courtroom </u> <br>
