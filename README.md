@@ -17,12 +17,15 @@ Built a React Native legal services marketplace app with a Firebase backend with
 <u>Intelligent Pac-Man <br>
 Built (BFS, DFS, cost function, and A*) search algorithms, (Minimax, Alpha-Beta pruning, & Expectimax) decision-making algorithms, localization, mapping, SLAM using a SAT solver, inference, Q-learning, and other algorithms for Pac-Man in the CS188 Introduction to Artificial Intelligence course.
 
-CS61Cpu <br>
+**CS61Cpu** <br>
 Built a fully functional CPU with a RISC-V data path in the Logism circuit simulator capable of running machine code converted from RISC-V assembly code for the CS61C: Computer Architecture course. Implemented different stages from the data path and pipelining to increase throughout.
   
 Hashtag Sentiment Analysis <br>
 Worked with one other team member analyzing content using AWS Comprehend
 collected with the Twitter API. Voted to receive a $300 award at MDB’s 2022 Tech Fair sponsored by Google & Retool.
+
+Cook County Housing Analysis <br>
+Analyzed housing dataset in Cook County, Illinois for Data Science course. Conducted Exploratory Data Analysis to understand data and inform modeling decisions. Implemented a data processing pipeline using pandas, and built a linear model with scikit-learn to predict housing prices using feature engineering. 
 
 CS61B, The Game <br>
 Built an engine that develops a pseudorandom explorable 2D tile-based map for the CS61B course.
